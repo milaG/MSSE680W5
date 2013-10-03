@@ -1,0 +1,9 @@
+C:\github\msse680\FreeOnlineLibrary\DomainLayer\bin\Debug\App.Config
+C:\github\msse680\FreeOnlineLibrary\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\github\msse680\FreeOnlineLibrary\DomainLayer\bin\Debug\DomainLayer.dll
+C:\github\msse680\FreeOnlineLibrary\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\github\msse680\FreeOnlineLibrary\DomainLayer\bin\Debug\EntityFramework.dll
+C:\github\msse680\FreeOnlineLibrary\DomainLayer\bin\Debug\EntityFramework.xml
+C:\github\msse680\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\github\msse680\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.dll
+C:\github\msse680\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.pdb

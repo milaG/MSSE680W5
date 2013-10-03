@@ -1,0 +1,13 @@
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\bin\Debug\App.Config
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\bin\Debug\DomainUnitTest.dll.config
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\bin\Debug\DomainUnitTest.dll
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\bin\Debug\DomainUnitTest.pdb
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\bin\Debug\DomainLayer.dll
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\bin\Debug\EntityFramework.dll
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\bin\Debug\FreeOnlineLibrary.dll
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\bin\Debug\DomainLayer.pdb
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\bin\Debug\FreeOnlineLibrary.pdb
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\bin\Debug\EntityFramework.xml
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\obj\Debug\DomainUnitTest.csprojResolveAssemblyReference.cache
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\obj\Debug\DomainUnitTest.dll
+C:\github\msse680\FreeOnlineLibrary\DomainUnitTest\obj\Debug\DomainUnitTest.pdb
