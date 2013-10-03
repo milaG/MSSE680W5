@@ -63,6 +63,7 @@ namespace ServiceUnitTest
             memb.Password = "Win123";
 
             var memberRepo = ServiceLayer.Factory.Creates("Member");
+            memberRepo.Insert(memb);
             memberRepo.Delete(memb);
         }
 
@@ -76,10 +77,9 @@ namespace ServiceUnitTest
 
          //  var bookRepo = new DataRepository<Book>();
            var bookRepo = ServiceLayer.Factory.Creates("Book");
-           Book deleteBook = (from del in bookRepo.GetAll() where del.BookTitle == "The Lord of the rings" select del).Single();
+         //  Book deleteBook = (from del in bookRepo.GetAll() where del.BookTitle == "The Lord of the rings" select del).Single();
 
-           bookRepo.Insert(bb);
-            
+            bookRepo.Insert(bb);
             bookRepo.Delete(bb);
         }
 
@@ -91,6 +91,7 @@ namespace ServiceUnitTest
             dvd.DvdRating = "PG";
 
             var DVDRepo = ServiceLayer.Factory.Creates("DVD");
+            DVDRepo.Insert(dvd);
             DVDRepo.Delete(dvd);
         }
     }

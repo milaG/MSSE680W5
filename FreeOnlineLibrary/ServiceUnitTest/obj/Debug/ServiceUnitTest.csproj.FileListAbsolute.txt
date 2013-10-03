@@ -13,3 +13,17 @@ C:\github\msse680\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\EntityFramework.xm
 C:\github\msse680\FreeOnlineLibrary\ServiceUnitTest\obj\Debug\ServiceUnitTest.csprojResolveAssemblyReference.cache
 C:\github\msse680\FreeOnlineLibrary\ServiceUnitTest\obj\Debug\ServiceUnitTest.dll
 C:\github\msse680\FreeOnlineLibrary\ServiceUnitTest\obj\Debug\ServiceUnitTest.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\App.Config
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\ServiceUnitTest.dll.config
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\ServiceUnitTest.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\ServiceUnitTest.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\DomainLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\FreeOnlineLibrary.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\ServiceLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\DomainLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\FreeOnlineLibrary.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\ServiceLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\bin\Debug\EntityFramework.xml
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\obj\Debug\ServiceUnitTest.csprojResolveAssemblyReference.cache
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\obj\Debug\ServiceUnitTest.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceUnitTest\obj\Debug\ServiceUnitTest.pdb
