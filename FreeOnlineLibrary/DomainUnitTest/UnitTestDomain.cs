@@ -7,6 +7,10 @@ using DomainLayer;
 
 namespace UnitTestDomain
 {
+    /// <summary>
+    /// Unit test for the domain layer testing the basic functionalities of the 
+    /// domain objects.
+    /// </summary>
     [TestClass]
     public class UnitTest1
     {

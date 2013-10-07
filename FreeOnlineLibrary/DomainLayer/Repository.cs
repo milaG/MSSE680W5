@@ -11,6 +11,12 @@ using System.Configuration;
 
 namespace DomainLayer
 {
+    /// <summary>
+    /// This is generic repository for all domain objects; members, books and DVDs. 
+    /// I created it generic <T>, so I do not have to create different repository
+    /// for each domain class
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public class DataRepository<T> : IDataRepository where T : class
     {
         /// <summary>

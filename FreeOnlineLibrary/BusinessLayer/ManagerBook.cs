@@ -10,6 +10,11 @@ namespace BusinessLayer
 {
     public class ManagerBook
     {
+        /// <summary>
+        /// This is the business manager for the book domain object. The manager 
+        /// calls the service layer functions for the class.
+        /// </summary>
+        /// <param name="bk"> book object</param>
         public void InsertBook(Book bk)
         {
             var bookRepo = ServiceLayer.Factory.Creates("Book");

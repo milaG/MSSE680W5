@@ -10,6 +10,11 @@ namespace BusinessLayer
 {
     public class ManagerMember
     {
+        /// <summary>
+        /// This is the business manager for the member domain object. The manager 
+        /// calls the service layer functions for the class.
+        /// </summary>
+        /// <param name="memb"> member object</param>
         public void InsertMember(Member memb)
         {
             var memberRepo = ServiceLayer.Factory.Creates("Member");

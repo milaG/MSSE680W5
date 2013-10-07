@@ -14,6 +14,10 @@ using System.Linq.Expressions;
 
 namespace ServiceUnitTest
 {
+    /// <summary>
+    /// Unit Tests for the service layer Factory class validating the basic CRUD 
+    /// operations for all three domain classes.
+    /// </summary>
     [TestClass]
     public class UnitTestService
     {

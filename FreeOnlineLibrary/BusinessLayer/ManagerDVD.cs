@@ -11,6 +11,11 @@ namespace BusinessLayer
 {
     public class ManagerDVD
     {
+        /// <summary>
+        /// This is the business manager for the DVD domain object. The manager 
+        /// calls the service layer functions for the class.
+        /// </summary>
+        /// <param name="dvd"> DVD object</param>
            public void InsertDVD(DVD dvd)
         {
             var dvdRepo = ServiceLayer.Factory.Creates("DVD");

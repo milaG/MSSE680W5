@@ -7,6 +7,9 @@ using DomainLayer;
 
 namespace ServiceLayer
 {
+    /// <summary>
+    /// Another service layer class, which validates the user login. 
+    /// </summary>
     public class ValidateLogin
     {
         public String Message { get; set; }

@@ -6,6 +6,9 @@ using BusinessLayer;
 
 namespace BusinessUnitTest
 {
+    /// <summary>
+    /// Unit tests for all three domain classes managers; members, books and DVDs
+    /// </summary>
     [TestClass]
     public class UnitTestBusiness
     {

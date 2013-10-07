@@ -9,6 +9,10 @@ using DomainLayer;
 
 namespace ServiceLayer
 {
+    /// <summary>
+    /// Service layer factory class. It does not have separate interfaces and 
+    /// implementations since I am implementing gegeric repository.
+    /// </summary>
     public class Factory
     {
         public static IDataRepository Creates(string repoType)
