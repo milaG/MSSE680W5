@@ -9,3 +9,12 @@ C:\github\msse680\FreeOnlineLibrary\ServiceLayer\bin\Debug\EntityFramework.xml
 C:\github\msse680\FreeOnlineLibrary\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
 C:\github\msse680\FreeOnlineLibrary\ServiceLayer\obj\Debug\ServiceLayer.dll
 C:\github\msse680\FreeOnlineLibrary\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceLayer\bin\Debug\App.Config
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\ServiceLayer\obj\Debug\ServiceLayer.pdb

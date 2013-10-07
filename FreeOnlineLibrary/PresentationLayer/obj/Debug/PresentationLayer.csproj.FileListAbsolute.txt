@@ -1,6 +1,0 @@
-C:\github\msse680\FreeOnlineLibrary\PresentationLayer\bin\Debug\PresentationLayer.dll.config
-C:\github\msse680\FreeOnlineLibrary\PresentationLayer\bin\Debug\PresentationLayer.dll
-C:\github\msse680\FreeOnlineLibrary\PresentationLayer\bin\Debug\PresentationLayer.pdb
-C:\github\msse680\FreeOnlineLibrary\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
-C:\github\msse680\FreeOnlineLibrary\PresentationLayer\obj\Debug\PresentationLayer.dll
-C:\github\msse680\FreeOnlineLibrary\PresentationLayer\obj\Debug\PresentationLayer.pdb

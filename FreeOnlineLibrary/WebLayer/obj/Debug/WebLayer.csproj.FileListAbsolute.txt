@@ -1,0 +1,14 @@
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\App.Config
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\WebLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\WebLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\BusinessLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\DomainLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\ServiceLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\EntityFramework.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\BusinessLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\DomainLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\ServiceLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\bin\EntityFramework.xml
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\obj\Debug\WebLayer.csprojResolveAssemblyReference.cache
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\obj\Debug\WebLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\WebLayer\obj\Debug\WebLayer.pdb

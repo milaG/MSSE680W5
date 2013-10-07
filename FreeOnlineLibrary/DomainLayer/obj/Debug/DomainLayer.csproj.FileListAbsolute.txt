@@ -13,6 +13,6 @@ C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\DomainLayer.
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\DomainLayer.pdb
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\EntityFramework.dll
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\EntityFramework.xml
-C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.dll
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache

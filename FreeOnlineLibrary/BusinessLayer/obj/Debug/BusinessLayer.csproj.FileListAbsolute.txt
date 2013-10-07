@@ -13,3 +13,16 @@ C:\github\msse680\FreeOnlineLibrary\BusinessLayer\bin\Debug\EntityFramework.xml
 C:\github\msse680\FreeOnlineLibrary\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 C:\github\msse680\FreeOnlineLibrary\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\github\msse680\FreeOnlineLibrary\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\bin\Debug\App.Config
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\bin\Debug\DomainLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\bin\Debug\FreeOnlineLibrary.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\bin\Debug\ServiceLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\bin\Debug\DomainLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\bin\Debug\FreeOnlineLibrary.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\bin\Debug\ServiceLayer.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessLayer\obj\Debug\BusinessLayer.pdb

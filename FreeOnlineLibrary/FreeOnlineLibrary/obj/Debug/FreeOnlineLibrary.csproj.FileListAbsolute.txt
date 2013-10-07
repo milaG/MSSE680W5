@@ -3,3 +3,7 @@ C:\github\msse680\FreeOnlineLibrary\FreeOnlineLibrary\bin\Debug\FreeOnlineLibrar
 C:\github\msse680\FreeOnlineLibrary\FreeOnlineLibrary\obj\Debug\FreeOnlineLibrary.csprojResolveAssemblyReference.cache
 C:\github\msse680\FreeOnlineLibrary\FreeOnlineLibrary\obj\Debug\FreeOnlineLibrary.dll
 C:\github\msse680\FreeOnlineLibrary\FreeOnlineLibrary\obj\Debug\FreeOnlineLibrary.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\FreeOnlineLibrary\bin\Debug\FreeOnlineLibrary.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\FreeOnlineLibrary\bin\Debug\FreeOnlineLibrary.pdb
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\FreeOnlineLibrary\obj\Debug\FreeOnlineLibrary.dll
+C:\github\msse680\MSSE680W5\FreeOnlineLibrary\FreeOnlineLibrary\obj\Debug\FreeOnlineLibrary.pdb

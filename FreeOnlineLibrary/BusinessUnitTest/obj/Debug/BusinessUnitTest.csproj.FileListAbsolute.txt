@@ -23,7 +23,6 @@ C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\Service
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\BusinessLayer.pdb
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\DomainLayer.pdb
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\ServiceLayer.pdb
-C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\EntityFramework.xml
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\obj\Debug\BusinessUnitTest.csprojResolveAssemblyReference.cache
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\obj\Debug\BusinessUnitTest.dll
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\obj\Debug\BusinessUnitTest.pdb
