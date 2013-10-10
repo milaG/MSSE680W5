@@ -16,3 +16,12 @@ C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\EntityFramew
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.dll
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.pdb
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\App.Config
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\DomainLayer.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\EntityFramework.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainLayer\bin\Debug\EntityFramework.xml
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.csprojResolveAssemblyReference.cache
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainLayer\obj\Debug\DomainLayer.pdb

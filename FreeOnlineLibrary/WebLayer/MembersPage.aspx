@@ -8,24 +8,37 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
+    <div style="text-decoration: underline">
     
         <asp:ObjectDataSource ID="ObjectDataSource1" runat="server" DataObjectTypeName="DomainLayer.Member" DeleteMethod="Delete" InsertMethod="InsertMember" SelectMethod="GetAll" TypeName="BusinessLayer.ManagerMember" UpdateMethod="Update"></asp:ObjectDataSource>
-        <strong>List of All Members </strong>
+        <strong>List of All Members 
+        <br />
+        <br />
+        <br />
+        </strong>
+        First Name:&nbsp;&nbsp;&nbsp;
+        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        <br />
+        <br />
+        Last Name:&nbsp;&nbsp;&nbsp;
+        <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+        <br />
+        <br />
+        Username:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+        <br />
+        <br />
+        Password&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
+        <br />
+        <br />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Add" />
+        <br />
+        <br />
+        <asp:HyperLink ID="HyperLinkAllMembers" runat="server" NavigateUrl="~/MembersDatabase.aspx">List of all Members</asp:HyperLink>
         <br />
     
     </div>
-        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="ObjectDataSource1">
-            <Columns>
-                <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" />
-                <asp:BoundField DataField="memberId" HeaderText="memberId" SortExpression="memberId" />
-                <asp:BoundField DataField="FirstName" HeaderText="FirstName" SortExpression="FirstName" />
-                <asp:BoundField DataField="LastName" HeaderText="LastName" SortExpression="LastName" />
-                <asp:BoundField DataField="Phonenumber" HeaderText="Phonenumber" SortExpression="Phonenumber" />
-                <asp:BoundField DataField="Username" HeaderText="Username" SortExpression="Username" />
-                <asp:BoundField DataField="Password" HeaderText="Password" SortExpression="Password" />
-            </Columns>
-        </asp:GridView>
         <br />
         <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/BooksPage.aspx" style="font-weight: 700">Go to Book List</asp:HyperLink>
         <br />

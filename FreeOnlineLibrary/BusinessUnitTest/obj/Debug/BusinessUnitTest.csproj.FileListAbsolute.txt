@@ -26,3 +26,16 @@ C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\Service
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\obj\Debug\BusinessUnitTest.csprojResolveAssemblyReference.cache
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\obj\Debug\BusinessUnitTest.dll
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\obj\Debug\BusinessUnitTest.pdb
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\App.Config
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\BusinessUnitTest.dll.config
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\BusinessUnitTest.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\BusinessUnitTest.pdb
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\BusinessLayer.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\DomainLayer.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\ServiceLayer.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\BusinessLayer.pdb
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\DomainLayer.pdb
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\bin\Debug\ServiceLayer.pdb
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\obj\Debug\BusinessUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\obj\Debug\BusinessUnitTest.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\BusinessUnitTest\obj\Debug\BusinessUnitTest.pdb

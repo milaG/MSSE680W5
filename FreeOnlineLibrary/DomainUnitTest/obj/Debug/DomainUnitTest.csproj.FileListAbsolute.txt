@@ -22,3 +22,14 @@ C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\bin\Debug\FreeOnlin
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\obj\Debug\DomainUnitTest.csprojResolveAssemblyReference.cache
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\obj\Debug\DomainUnitTest.dll
 C:\github\msse680\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\obj\Debug\DomainUnitTest.pdb
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\bin\Debug\App.Config
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\bin\Debug\DomainUnitTest.dll.config
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\bin\Debug\DomainUnitTest.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\bin\Debug\DomainUnitTest.pdb
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\bin\Debug\DomainLayer.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\bin\Debug\FreeOnlineLibrary.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\bin\Debug\DomainLayer.pdb
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\bin\Debug\FreeOnlineLibrary.pdb
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\obj\Debug\DomainUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\obj\Debug\DomainUnitTest.dll
+C:\Users\Mila\Documents\GitHub\MSSE680W5\FreeOnlineLibrary\DomainUnitTest\obj\Debug\DomainUnitTest.pdb

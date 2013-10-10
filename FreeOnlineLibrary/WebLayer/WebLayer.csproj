@@ -59,6 +59,9 @@
   <ItemGroup>
     <Content Include="BooksPage.aspx" />
     <Content Include="DVDsPage.aspx" />
+    <Content Include="MainPage.aspx" />
+    <Content Include="MembersDatabase.aspx" />
+    <Content Include="SearchMember.aspx" />
     <Content Include="Web.config" />
     <Content Include="MembersPage.aspx" />
   </ItemGroup>
@@ -77,6 +80,20 @@
     <Compile Include="DVDsPage.aspx.designer.cs">
       <DependentUpon>DVDsPage.aspx</DependentUpon>
     </Compile>
+    <Compile Include="MainPage.aspx.cs">
+      <DependentUpon>MainPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MainPage.aspx.designer.cs">
+      <DependentUpon>MainPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MembersDatabase.aspx.cs">
+      <DependentUpon>MembersDatabase.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MembersDatabase.aspx.designer.cs">
+      <DependentUpon>MembersDatabase.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MembersPage.aspx.cs">
       <DependentUpon>MembersPage.aspx</DependentUpon>
@@ -84,6 +101,13 @@
     </Compile>
     <Compile Include="MembersPage.aspx.designer.cs">
       <DependentUpon>MembersPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchMember.aspx.cs">
+      <DependentUpon>SearchMember.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchMember.aspx.designer.cs">
+      <DependentUpon>SearchMember.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
