@@ -40,6 +40,24 @@ namespace WebLayer {
         protected global::System.Web.UI.WebControls.GridView GridView1;
         
         /// <summary>
+        /// HyperLinkSearchBooks control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink HyperLinkSearchBooks;
+        
+        /// <summary>
+        /// HyperLinkSearchBooks0 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink HyperLinkSearchBooks0;
+        
+        /// <summary>
         /// HyperLink2 control.
         /// </summary>
         /// <remarks>

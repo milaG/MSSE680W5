@@ -57,15 +57,33 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AddBook.aspx" />
+    <Content Include="AddDvd.aspx" />
     <Content Include="BooksPage.aspx" />
     <Content Include="DVDsPage.aspx" />
     <Content Include="MainPage.aspx" />
     <Content Include="MembersDatabase.aspx" />
+    <Content Include="SearchBooks.aspx" />
+    <Content Include="SearchDVD.aspx" />
     <Content Include="SearchMember.aspx" />
     <Content Include="Web.config" />
     <Content Include="MembersPage.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddBook.aspx.cs">
+      <DependentUpon>AddBook.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddBook.aspx.designer.cs">
+      <DependentUpon>AddBook.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddDvd.aspx.cs">
+      <DependentUpon>AddDvd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddDvd.aspx.designer.cs">
+      <DependentUpon>AddDvd.aspx</DependentUpon>
+    </Compile>
     <Compile Include="BooksPage.aspx.cs">
       <DependentUpon>BooksPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -101,6 +119,20 @@
     </Compile>
     <Compile Include="MembersPage.aspx.designer.cs">
       <DependentUpon>MembersPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchBooks.aspx.cs">
+      <DependentUpon>SearchBooks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchBooks.aspx.designer.cs">
+      <DependentUpon>SearchBooks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchDVD.aspx.cs">
+      <DependentUpon>SearchDVD.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchDVD.aspx.designer.cs">
+      <DependentUpon>SearchDVD.aspx</DependentUpon>
     </Compile>
     <Compile Include="SearchMember.aspx.cs">
       <DependentUpon>SearchMember.aspx</DependentUpon>

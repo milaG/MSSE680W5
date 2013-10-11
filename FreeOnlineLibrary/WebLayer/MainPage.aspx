@@ -19,11 +19,11 @@
         <br />
     
     </div>
-        <asp:HyperLink ID="BecomeAMemberLink" runat="server" NavigateUrl="~/MembersPage.aspx">Become a Member</asp:HyperLink>
+        <asp:HyperLink ID="BecomeAMemberLink" runat="server" NavigateUrl="~/MembersPage.aspx" style="font-weight: 700">Become a Member</asp:HyperLink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:HyperLink ID="HyperLinkBooks" runat="server" NavigateUrl="~/BooksPage.aspx">Go to the Books Page</asp:HyperLink>
+        <asp:HyperLink ID="HyperLinkBooks" runat="server" NavigateUrl="~/BooksPage.aspx" style="font-weight: 700">Go to the Books Page</asp:HyperLink>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:HyperLink ID="HyperLinkDVDs" runat="server" NavigateUrl="~/DVDsPage.aspx">Go to the DVD&#39;s Page</asp:HyperLink>
+        <asp:HyperLink ID="HyperLinkDVDs" runat="server" NavigateUrl="~/DVDsPage.aspx" style="font-weight: 700">Go to the DVD&#39;s Page</asp:HyperLink>
 &nbsp;<p>
             &nbsp;</p>
     </form>

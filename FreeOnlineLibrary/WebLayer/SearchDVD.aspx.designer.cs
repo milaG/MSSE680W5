@@ -10,7 +10,7 @@
 namespace WebLayer {
     
     
-    public partial class MembersList {
+    public partial class SearchDVD {
         
         /// <summary>
         /// form1 control.
@@ -20,6 +20,24 @@ namespace WebLayer {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        
+        /// <summary>
+        /// TextBox1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        
+        /// <summary>
+        /// Button1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button Button1;
         
         /// <summary>
         /// ObjectDataSource1 control.
@@ -40,22 +58,13 @@ namespace WebLayer {
         protected global::System.Web.UI.WebControls.GridView GridView1;
         
         /// <summary>
-        /// HyperLinkSearchByFirstName control.
+        /// HyperLink1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLinkSearchByFirstName;
-        
-        /// <summary>
-        /// HyperLinkSearchByFirstName0 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLinkSearchByFirstName0;
+        protected global::System.Web.UI.WebControls.HyperLink HyperLink1;
         
         /// <summary>
         /// HyperLink2 control.
